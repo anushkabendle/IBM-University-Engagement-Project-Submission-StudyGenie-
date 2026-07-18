@@ -1,5 +1,5 @@
 # IBM-University-Engagement-Project-Submission-StudyGenie
-> **Smart Genie** is an AI-powered Smart Study Assistant built using **IBM watsonx Orchestrate** that helps students plan, learn, and prepare for exams efficiently. It creates personalized study plans based on subjects, goals, exam dates, and available study time. Using **RAG** and a **multi-agent architecture**, Smart Genie retrieves trusted learning content, generates study materials, tracks progress, and provides intelligent learning assistance through a conversational AI interface.
+ **Smart Genie** is an AI-powered Smart Study Assistant built using **IBM watsonx Orchestrate** that helps students plan, learn, and prepare for exams efficiently. It creates personalized study plans based on subjects, goals, exam dates, and available study time. Using **RAG** and a **multi-agent architecture**, Smart Genie retrieves trusted learning content, generates study materials, tracks progress, and provides intelligent learning assistance through a conversational AI interface.
 
 ---
 
